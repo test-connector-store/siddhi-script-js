@@ -1,0 +1,19 @@
+{
+    "name": "javascript",
+    "owner": "WSO2",
+    "category": "Siddhi Script",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-script-js/",
+    "description": "The siddhi-script-js is an extension to Siddhi that allows to include JavaScript functions within the Siddhi Query Language. ",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-script",
+        "js"
+    ],
+    "releases": [
+        {
+            "tagName": "4.1.1",
+            "products": []
+        }
+    ]
+}
